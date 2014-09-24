@@ -1,0 +1,173 @@
+/* 
+  Localizable.strings
+  Интергалактик
+
+  Created by Admin on 9/24/14.
+  Copyright (c) 2014 Kirill Nepomnyaschy. All rights reserved.
+*/
+
+
+
+"game_exploreResultSuccessTitle" = "Обнаружены ресурсы";
+"game_exploreResultSuccessMessage" = "Вы нашли астероидный пояс богатый гелием-4. Перевод от Корпорации: ¥ %@";
+
+"game_exploreResultFailTitle" = "Ресурсов не найдено";
+"game_exploreResultFailMessage" = "Вы не нашли ресурсов в этом секторе";
+
+
+
+"rootVC_menuItemTitle1" = "Корабль";
+"rootVC_menuItemTitle2" = "Работа";
+"rootVC_menuItemTitle3" = "Исследование";
+"rootVC_menuItemTitle4" = "Контракты";
+"rootVC_menuItemTitle5" = "Учебка";
+"rootVC_menuItemTitle6" = "Ангар";
+
+"rootVC_menuItemSubtitle1" = "Апгрейд оборудования";
+"rootVC_menuItemSubtitle2" = "Обшивка: %ld%%";
+"rootVC_menuItemSubtitle3" = "Полет в дальние сектора галактики";
+"rootVC_menuItemSubtitle4" = "Работа для пилотов";
+"rootVC_menuItemSubtitle5" = "Информация для пилотов";
+"rootVC_menuItemSubtitle6" = "Ремонт";
+
+
+"rootVC_finalPopupTitle" = "Вы - легенда";
+"rootVC_finalPopupMessafe" = "Слухи о вашем опыте разнеслись по всей галактике и командование Объединенной Коалиции избрало вас адмиралом всего галактического флота.";
+
+"rootVC_gameoverPopupTitle" = "Вы погибли";
+"rootVC_gameoverPopupMessage" = "Обшивка корабля полностью износилась и он взорвался";
+
+"rootVC_denyExplorePopupTitle" = "Недоступно";
+"rootVC_denyExplorePopupMessage" = "Для исследования космоса нужен корабль с гипердвигателем";
+"rootVC_denyContractPopupTitle1" = "Недоступно";
+"rootVC_denyContractPopupMessage1" = "Вы должны иметь статус \"Наемник\" чтобы получать контракты";
+"rootVC_denyContractPopupTitle2" = "Недоступно";
+"rootVC_denyContractPopupMessage2" = "Корабль серьезно поврежден - вы не можете выполнять контракты";
+"rootVC_denyHangarPopupTitle" = "Недоступно";
+"rootVC_denyHangarPopupMessage" = "У вас нет корабля";
+
+
+"equipmentVC_menuItemTitle1" = "Корпус";
+"equipmentVC_menuItemTitle2" = "Двигатель";
+"equipmentVC_menuItemTitle3" = "Реактор";
+"equipmentVC_menuItemTitle4" = "Радар";
+"equipmentVC_menuItemTitle5" = "Силовое поле";
+"equipmentVC_menuItemTitle6" = "Вооружение";
+"statsVuew_leftText" = "Баланс:\nДоход:\nКорабль:\nСтатус:\nОчки:";
+"statsVuew_salaryText" = "%@\n%@ в день\n%@\n%@\n%@";
+"equipmentVC_menuItemTitle1" = "";
+"equipmentVC_menuItemTitle1" = "";
+
+
+"equipmentVC_donePopupNewShipTitle" = "Новый корабль";
+"equipmentVC_donePopupNewDeviceTitle" = "Оборудование установлено";
+"equipmentVC_donePopupUpgradeDeviceTitle" = "Оборудование обновлено";
+
+
+"equipmentVC_denyPopupNoShipTitle" = "Отказано";
+"equipmentVC_denyPopupNoShipMessage" = "Сначала купите корабль";
+"equipmentVC_denyPopupNoShipButton" = "OK";
+
+"equipmentVC_actionBuyingShip" = "Покупка корабля...";
+"equipmentVC_actionBuyingDevice" = "Покупка оборудования...";
+"equipmentVC_actionUpgradingDevice" = "Замена оборудования...";
+
+"equipmentVC_denyPopupNoMoneyTitle" = "Отказано";
+"equipmentVC_denyPopupNoMoneyMessage" = "Недостаточно средств";
+"equipmentVC_denyPopupNoMoneyButton" = "OK";
+
+"equipmentVC_cellModernization" = "модернизация (%d ур.)";
+"equipmentVC_cellBuy" = "купить";
+"equipmentVC_cellPerfect" = "совершенный";
+
+
+
+
+"menuScreen_newGame" = "НОВАЯИГРА";
+"menuScreen_newGameHighlight" = "ИГРА";
+
+
+"menuScreen_resume" = "ПРОДОЛЖИТЬИГРУ";
+"menuScreen_resumeHighlight" = "ИГРУ";
+
+"menuScreen_newGamePopupTitle" = "Новая игра";
+"menuScreen_newGamePopupMessage" = "Введите имя пилота\n(от 3 до 24 символов";
+"menuScreen_newGamePopupCancel" = "Отмена";
+"menuScreen_newGamePopupOk" = "Начать";
+
+"menuScreen_wrongNamePopupTitle" = "Новая игра";
+"menuScreen_wrongNamePopupMessage" = "Имя пилота должно быть от 3 до 24 символов";
+"menuScreen_wrongNamePopupCancel" = "Отмена";
+"menuScreen_wrongNamePopupOk" = "Начать";
+
+"menuScreen_Loading" = "Загрузка...";
+
+"information_requesting" = "Запрос данных...";
+
+"storyView_pages" = "страница %ld из %ld";
+"storyView_next" = "Дальше...";
+
+"exploreVC_lifeFormsTitle" = "Поиск жизненных форм";
+"exploreVC_lifeFormSubtitle" = "Больше опыта";
+"exploreVC_lifeResourcesTitle" = "Поиск ресурсов";
+"exploreVC_lifeResourcesSubtitle" = "Больше денег";
+
+"exploreVC_actionCompletePopupSingular" = "%@\n+%lld очка";
+"exploreVC_actionCompletePopupPlural" = "%@\n+%lld очков";
+
+"exploreVC_hyperjump" = "Гиперпрыжок...";
+
+"exploreVC_deniedPopupTitle" = "Отказано";
+"exploreVC_deniedPopupMessage" = "Для поиска форм жизни нужен квантовый радар 4-го поколения";
+
+"hangarVC_repairPopupTitle" = "Ремонт выполнен";
+"hangarVC_repairPopupMessage" = "Ваш корабль полностью отремонтирован";
+"hangarVC_repairPopupButton" = "OK";
+
+"hangarVC_denyPopupTitle" = "Отказано";
+"hangarVC_denyPopupMessage" = "Недостаточно средств для оплаты ремонта";
+"hangarVC_denyPopupButton" = "OK";
+
+"jobsVC_newJobPopupTitle" = "Новая работа";
+"jobsVC_newJobPopupButton" = "OK";
+
+"jobsVC_denyPopupTitle" = "Отказано";
+"jobsVC_denyPopupMessage1" = "Для работы вам нужно иметь свой корабль";
+"jobsVC_denyPopupMessage2" = "Ваш корабль не удовлетворяет требованиям";
+"jobsVC_denyPopupButton" = "OK";
+
+"jobsVC_searching" = "Поиск работы...";
+
+"contractsVC_price" = "¥ %@";
+"contractsVC_message" = "Вас приветствует центральная служба поиска контрактов для промышленных пилотов.\n\nСтоимость одного запроса:\n%@";
+
+"contractsVC_denyTitle" = "Отказано";
+"contractsVC_denyMessage" = "Недостаточно средств для выполнения запроса";
+"contractsVC_failedSearch" = "Не удалось найти подходящий контракт. Попробуйте повторить поиск";
+
+"contractsVC_searchResultOreTitle" = "Добыча %@";
+"contractsVC_searchResultOreMessage" = "Военная корпорация “Красный космос” ищет промышленных пилотов для добычи %@ из астероидного поля в созвездии Денеб. В секторе замечены сильные потоки космического мусора. Пилоту рекомендуется иметь генератор силового поля не ниже %ld-го технологического уровня.";
+"contractsVC_searchResultOreMark" = "не ниже %ld-го";
+
+
+"contractsVC_searchResultTradeTitle" = "Торговый договор";
+"contractsVC_searchResultTradeMessage" = "Торговая компания “Галактик Трэйд” скупает %@ на планете Гелата-Урис по ценам выше рыночных. Торговые маршруты в системе назначения слабо охраняются, поэтому пилотам рекомендуется иметь на борту вооружение не ниже %ld-го технологического уровня.";
+"contractsVC_searchResultTradeMark" = "не ниже %ld-го";
+
+"contractsVC_searching" = "Поиск контракта...";
+
+
+"tradeMissionTURN_FIND_SELLER" = "Пролетев через цепочку варп-порталов вы оказались в точке назначения. Стыковка с торговой станцией прошла успешно, и вы отправились в торговый док чтобы найти %@ по хорошей цене. ";
+"tradeMissionTURN_FIND_SELLER_button_1" = "Искать торговца";
+"tradeMissionTURN_FIND_SELLER_2" = "Торговый док представлял собой огромных размеров ангар по площади равный поверхности небольшого планетоида. Торговые корабли и баржи разных размеров стояли в несколько рядов с открытыми грузовыми отсеками, которые были под завязку забиты товарами со всех концов галактики.\n\nЗазывалы носились вокруг своих кораблей и приглашали попробовать на вкус эрноанские персики, гаальскую свинину, крылышки фэянских летающих пауков и прочие экзотические деликатесы.";
+"tradeMissionTURN_MAKE_DEAL" = "Вы нашли нужного торговца и поинтересовались ценой. 10 галактических йен за фунт товара - не самое выгодное предложение...";
+"tradeMissionTURN_MAKE_DEAL_button_1" = "Торговаться";
+"tradeMissionTURN_MAKE_DEAL_button_2" = "Предложить спор";
+"tradeMissionTURN_MAKE_DEAL_button_3" = "Хакнуть торговца";
+"tradeMissionTURN_TRADE_SUCCESS" = "Вы решили поторговаться и смогли существенно сбить цену применив всё своё обаяние.";
+"tradeMissionTURN_TRADE_FAIL" = "Вы попытались поторговаться, но существенно сбить цену не получилось...";
+"tradeMissionTURN_HACK_SUCCESS" = "Вы связались по коммуникатору с Сибо и она проникла в базу данных торговца, подменив срок годности товара. После этого вам без труда удалось сбить цену на товар.";
+"tradeMissionTURN_HACK_FAIL" = "Вы связались по коммуникатору с Сибо и она проникла в базу данных торговца, подменив срок годности товара. К сожалению, торговец почуял неладное и отказался снизить цену на товар.";
+"tradeMissionTURN_BET_SUCCESS" = "Вы предложили торговцу пари на бой дройдов - популярный способ решения споров на торговых станциях. Вы выставили своего штурмового дроида против дроида торговца.\n\nИз напряженного боя ваш штурмовик вышел победителем и торговцу пришлось снизить цену на товар вдвое.";
+"tradeMissionTURN_BET_FAIL" = "Вы предложили торговцу пари на бой дройдов - популярный способ решения споров на торговых станциях. Вы выставили своего штурмового дроида против дроида торговца.\n\nК несчастью, дроид торговца был намного современнее вашего и вы проиграли.";
+"tradeMission" = "";
